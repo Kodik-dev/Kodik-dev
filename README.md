@@ -30,7 +30,6 @@ Software Developer focused on desktop software, automation bots, and Android dev
 ### 🌐 Links
 * **Kwork:** https://kwork.ru/user/isostoned
 * **Buisness card** https://kodik-dev.github.io/portfolio/
-* **Telegram:** @Kodik_dev
-
+* **Telegram:** 
 <img width="272" height="280" alt="image" src="https://github.com/user-attachments/assets/72d86b42-37a0-486d-83fc-1190a06131ef" />
 
