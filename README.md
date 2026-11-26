@@ -29,5 +29,5 @@ Software Developer focused on desktop software, automation bots, and Android dev
 
 ### 🌐 Links
 * **Telegram:** @Kodik_dev
-*
-* <img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/9b4b9e43-9b04-4000-96cf-21524379258e" />
+
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/9b4b9e43-9b04-4000-96cf-21524379258e" />
